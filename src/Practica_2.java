@@ -366,7 +366,7 @@ public class Practica_2 {
         int[] columnasGuardadas = new int[0]; //array donde guardar las columnas de donde se ha golpeado
         int[] filasGuardadas = new int[0]; //array donde guardar las filas de donde se ha golpeado
         int posicionColumna=1,posicionFila=1; //posicion donde está el cursor
-        int nivelInicio=1; //nivel en el que inicia el juego
+        int nivelInicio=5; //nivel en el que inicia el juego
         int contadorGolpes = 0; //contador de golpes que lleva
         int nivelActual=nivelInicio;
         boolean Salir = false; //si se sale del programa
